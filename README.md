@@ -1,7 +1,7 @@
 # PromIT — автотесты Playwright
 
 Набор E2E-тестов для [practice.expandtesting.com](https://practice.expandtesting.com).  
-Тесты написаны на TypeScript с использованием [Playwright](https://playwright.dev/) и паттерна Page Object Model для тестового примера такая архитектура выглядит более лаконичной.
+Тесты написаны на TypeScript с использованием [Playwright](https://playwright.dev/) и паттерна Page Object Model для тестового примера такая архитектура выглядит достаточной и локаничной.
 
 ## Требования
 
